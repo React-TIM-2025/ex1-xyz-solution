@@ -1,0 +1,39 @@
+.Produit {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: -10%;
+  border: 2px solid black;
+}
+.Produit__nom {
+  width: 20%;
+  margin-left: 2%;
+}
+.Produit__modifier {
+  height: 50%;
+  background-color: #214e70;
+  color: white;
+  border-radius: 5px;
+}
+.Produit__categories {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.Produit__categorie {
+  padding: 5%;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+}
+.Produit__unites {
+  width: fit-content;
+  margin: auto;
+  color: rgb(29, 185, 29);
+}
+.Produit__ventes {
+  width: fit-content;
+}/*# sourceMappingURL=Produit.css.map */

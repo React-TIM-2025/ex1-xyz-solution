@@ -1,0 +1,58 @@
+.Produit{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    margin-left:-10%;
+
+    border: 2px solid black;
+
+
+    &__nom{
+      width:20%;
+      margin-left:2%;
+
+    }
+
+    &__modifier{
+      height:50%;
+
+      background-color:#214e70;
+      color:white;
+      border-radius:5px;
+      
+    }
+
+    &__categories{
+      display:flex;
+      flex-direction:row;
+      justify-content:center;
+      align-items:center;
+      margin:auto;
+    }
+
+    &__categorie{
+      padding:5%;
+      text-align: center;
+      border-radius:5px;
+      color:white;
+    }
+
+
+    &__unites{
+      width:fit-content;
+      margin:auto;
+      color:rgb(29, 185, 29);
+      
+      &::before{
+        
+      }
+    }
+
+
+    &__ventes{
+      width:fit-content;
+    }
+
+
+}

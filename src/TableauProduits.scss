@@ -1,0 +1,20 @@
+.ListeProduits{
+  width:28%;
+  height:5vh;
+
+  &__header{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+  }
+
+  &__header--mots:first-child{
+    margin-right:30%;
+  }
+
+  &__liste{
+    margin-top:-2%;
+  }
+
+}

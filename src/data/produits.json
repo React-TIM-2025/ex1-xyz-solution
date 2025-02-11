@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "avatar": "../public/avatars/1.png",
+    "nom":"Produit 1",
+    "categories":[3],
+    "unites": 300,
+    "ventes": 35000
+  },
+  {
+    "id": 2,
+    "avatar": "../public/avatars/2.png",
+    "nom":"Produit 2",
+    "categories":[5],
+    "unites": 1285,
+    "ventes": 12000000
+  },
+  {
+    "id": 3,
+    "avatar": "../public/avatars/3.png",
+    "nom":"Produit 3",
+    "categories":[2],
+    "unites": 15,
+    "ventes": 8962
+  },
+  {
+    "id": 4,
+    "avatar": "../public/avatars/4.png",
+    "nom":"Produit 4",
+    "categories":[6,2],
+    "unites": 89,
+    "ventes": 2600000
+  },
+  {
+    "id": 5,
+    "avatar": "../public/avatars/5.png",
+    "nom":"Produit 5",
+    "categories":[6],
+    "unites": 3632,
+    "ventes": 568000
+  },
+  {
+    "id": 6,
+    "avatar": "../public/avatars/6.png",
+    "nom":"Produit 6",
+    "categories":[1],
+    "unites": 63,
+    "ventes": 7458
+  }
+
+]

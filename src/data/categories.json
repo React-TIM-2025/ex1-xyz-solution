@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "categorie":"Finance",
+    "couleure": "#38b26f"
+  },
+  {
+    "id": 2,
+    "categorie":"Sport",
+    "couleure": "#214e70"
+  },
+  {
+    "id": 3,
+    "categorie":"IA",
+    "couleure": "#a0a901"
+  },
+  {
+    "id": 4,
+    "categorie":"Culture",
+    "couleure": "#6deac4"
+  },
+  {
+    "id": 5,
+    "categorie":"Santé",
+    "couleure": "#da0189"
+  },
+  {
+    "id": 6,
+    "categorie":"Tourisme",
+    "couleure": "#e85858"
+  }
+
+]

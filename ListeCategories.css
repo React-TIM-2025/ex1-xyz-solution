@@ -1,0 +1,13 @@
+.ListeCategories {
+  width: 29%;
+  margin: auto;
+}
+.ListeCategories__titre {
+  width: fit-content;
+}
+.ListeCategories__liste {
+  display: flex;
+  flex-direction: row;
+  margin-left: -10%;
+  justify-content: space-around;
+}/*# sourceMappingURL=ListeCategories.css.map */

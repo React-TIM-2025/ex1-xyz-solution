@@ -1,0 +1,16 @@
+.ListeProduits {
+  width: 28%;
+  height: 5vh;
+}
+.ListeProduits__header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.ListeProduits__header--mots:first-child {
+  margin-right: 30%;
+}
+.ListeProduits__liste {
+  margin-top: -2%;
+}/*# sourceMappingURL=TableauProduits.css.map */
